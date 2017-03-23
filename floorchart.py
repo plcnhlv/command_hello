@@ -1,4 +1,4 @@
-print("hyuntae slept")
 print("hwang beong gohn")
-print("kim chang hun")
+print("kim chang:wewe")
 print("llll oo llllll")
+print("get ")
